@@ -11,8 +11,10 @@
             "id": "0661d9ee4754b6a7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Scoring.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scoring.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scoring.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Scoring.pdf"
+              }
             }
           }
         ]
@@ -140,6 +146,10 @@
   },
   "active": "0661d9ee4754b6a7",
   "lastOpenFiles": [
+    "Tech Stack.pdf",
+    "Scoring.pdf",
+    "mpdf (2) (1) (1).pdf",
+    "Software IL - semifinal - SkillsLV (5).pdf",
     "Scoring Notes.md",
     "Welcome.md"
   ]
