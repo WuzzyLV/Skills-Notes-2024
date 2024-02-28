@@ -11,9 +11,11 @@
             "id": "0661d9ee4754b6a7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Scoring.pdf"
+                "file": "Todo.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scoring.pdf",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scoring.pdf",
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scoring.pdf"
+                "file": "Todo.md"
               }
             }
           }
@@ -146,12 +148,12 @@
   },
   "active": "0661d9ee4754b6a7",
   "lastOpenFiles": [
-    "Todo.md",
     "Tech Stack.pdf",
+    "Scoring Notes.md",
     "Scoring.pdf",
+    "Todo.md",
     "mpdf (2) (1) (1).pdf",
     "Software IL - semifinal - SkillsLV (5).pdf",
-    "Scoring Notes.md",
     "Welcome.md"
   ]
 }
