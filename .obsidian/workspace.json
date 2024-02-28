@@ -11,15 +11,26 @@
             "id": "0661d9ee4754b6a7",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scoring.pdf"
+              }
+            }
+          },
+          {
+            "id": "3d088cb5ea8e58e5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
+                "file": "Install list.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Install list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Todo.md",
+                "file": "Install list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Install list.md"
               }
             }
           }
@@ -146,12 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0661d9ee4754b6a7",
+  "active": "3d088cb5ea8e58e5",
   "lastOpenFiles": [
-    "Tech Stack.pdf",
-    "Scoring Notes.md",
-    "Scoring.pdf",
     "Todo.md",
+    "Tech Stack.pdf",
+    "Install list.md",
+    "Scoring.pdf",
+    "Scoring Notes.md",
     "mpdf (2) (1) (1).pdf",
     "Software IL - semifinal - SkillsLV (5).pdf",
     "Welcome.md"
