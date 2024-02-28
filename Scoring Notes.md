@@ -1,0 +1,12 @@
+## Easy points
+- API URL `/api/v1`
+- Restful API
+- Root is at /
+- Admin is at /admin
+- Method comments
+- JOIN in SQL queries
+- HTTP status codes for API
+- DB in UTF-8
+- No errors in console, for frontend
+- Pictures in frontend scale properly
+- SEO tags, just add `<meta>` description in head
